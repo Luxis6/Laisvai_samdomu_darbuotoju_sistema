@@ -1,1 +1,1 @@
-Laisvai samdomų darbuotojų paieškos/įdarbinimo sistema
+Laisvai samdomų darbuotojų paieškos sistema
